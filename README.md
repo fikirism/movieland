@@ -1,6 +1,8 @@
 # Fikiri MovieLand
 
 Welcome to Fikiri MovieLand! This is a simple web application that allows users to search for movies and view details about them.
+![movie shot](https://github.com/fikirism/movieland/assets/100496931/93ba814c-3d30-4db3-96b6-724be496a17a)
+
 
 ## Features
 

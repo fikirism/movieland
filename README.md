@@ -30,7 +30,7 @@ git clone https://github.com/fikirism/movieland.git
 2. Navigate to the project directory
 
 
-3. Open `index.html` in your web browser to launch the application.
+3. Open terminal and run `npm run dev` to launch the application in your web browser.
 
 ## Usage
 
